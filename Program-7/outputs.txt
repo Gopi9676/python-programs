@@ -1,0 +1,18 @@
+================== RESTART: D:\GKMCA 2\python\Program-7\7.1.py =================
+Please enter the fibonacci number range: 8
+0 1 1 2 3 5 8 13 
+The sum of fibonacci series numbers = 33
+>>> 
+================== RESTART: D:\GKMCA 2\python\Program-7\7.2.py =================
+enter any number:5
+factorial value of 5 is: 120
+>>> 
+================== RESTART: D:\GKMCA 2\python\Program-7\7.3.py =================
+Enter a string:MADAM
+'MADAM'is a palindrome.
+>>> 
+================== RESTART: D:\GKMCA 2\python\Program-7\7.4.py =================
+enter the first integer:36
+enter the second integer:18
+the Gcd of 36 and 18 is: 18
+>>> 
