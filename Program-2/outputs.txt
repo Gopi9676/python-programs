@@ -1,0 +1,109 @@
+Python 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+============= RESTART: D:/GKMCA 2/python/experiment-2/program2.1.py ============
+enter a number:28
+28 is even
+>>> 
+============= RESTART: D:/GKMCA 2/python/experiment-2/program2.2.py ============
+enter a number:5
+five
+>>> 
+============= RESTART: D:/GKMCA 2/python/experiment-2/program2.3.py ============
+enter a number:56
+the number 56 in between range
+>>> 
+============= RESTART: D:/GKMCA 2/python/experiment-2/program2.4.py ============
+enter the value of N:50
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+75
+80
+85
+90
+95
+100
+105
+110
+115
+120
+125
+130
+135
+140
+145
+150
+155
+160
+165
+170
+175
+180
+185
+190
+195
+200
+205
+210
+215
+220
+225
+230
+235
+240
+245
+250
+>>> 
+============= RESTART: D:/GKMCA 2/python/experiment-2/program2.4.py ============
+enter the value of N:2
+5
+10
+>>> 
+============= RESTART: D:/GKMCA 2/python/experiment-2/program2.5.py ============
+enter a list of numbers seperated by space:10 20 30 40 50
+Traceback (most recent call last):
+  File "D:/GKMCA 2/python/experiment-2/program2.5.py", line 2, in <module>
+    mylist=list(map(int,mylist,split()))
+NameError: name 'split' is not defined
+>>> 
+============= RESTART: D:/GKMCA 2/python/experiment-2/program2.5.py ============
+enter a list of numbers seperated by space:10 20 30
+the sum of the numbers is 10
+the sum of the numbers is 30
+the sum of the numbers is 60
+>>> 
+============= RESTART: D:/GKMCA 2/python/experiment-2/program2.6.py ============
+1
+2
+3
+4
+6
+7
+>>> 
+============= RESTART: D:/GKMCA 2/python/experiment-2/program2.7.py ============
+0,
+============= RESTART: D:/GKMCA 2/python/experiment-2/program2.8.py ============
+enter your name:gopi
+enter your age:24
+congragulations gopi you are eligible to vote!
+>>> 
+============= RESTART: D:/GKMCA 2/python/experiment-2/program2.7.py ============
+0,
+============= RESTART: D:/GKMCA 2/python/experiment-2/program2.7.py ============
+20,
+>>> 
+============= RESTART: D:/GKMCA 2/python/experiment-2/program2.7.py ============
+0,2,4,6,8,10,12,14,16,18,20,
+>>> 
