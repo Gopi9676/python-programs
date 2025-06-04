@@ -1,0 +1,77 @@
+enter the first number:18
+enter the second number:36
+The gcd of 18 and 36 is 36
+>>> 
+================== RESTART: D:/GKMCA 2/python/Program-4/4.2.py =================
+>>> 
+================== RESTART: D:/GKMCA 2/python/Program-4/4.2.py =================
+enter a number:8
+The number is even
+>>> 
+================== RESTART: D:/GKMCA 2/python/Program-4/4.3.py =================
+>>> 
+================== RESTART: D:/GKMCA 2/python/Program-4/4.3.py =================
+factorial of 10 is 3628800
+>>> 
+================== RESTART: D:/GKMCA 2/python/Program-4/4.3.py =================
+factorial of 1 is 1
+factorial of 2 is 2
+factorial of 3 is 6
+factorial of 4 is 24
+factorial of 5 is 120
+factorial of 6 is 720
+factorial of 7 is 5040
+factorial of 8 is 40320
+factorial of 9 is 362880
+factorial of 10 is 3628800
+>>> 
+================== RESTART: D:/GKMCA 2/python/Program-4/4.4.py =================
+enter a number:5
+The factorial of 5 is 120
+>>> 
+================== RESTART: D:/GKMCA 2/python/Program-4/4.5.py =================
+enter the number of elements in the list:5
+enter element1:10
+the sum of the list is 10
+enter element2:20
+the sum of the list is 10
+enter element3:30
+the sum of the list is 10
+enter element4:40
+the sum of the list is 10
+enter element5:50
+the sum of the list is 10
+>>> 
+================== RESTART: D:/GKMCA 2/python/Program-4/4.5.py =================
+enter the number of elements in the list:5
+enter element1:10
+enter element2:20
+enter element3:30
+enter element4:40
+enter element5:50
+the sum of the list is 10
+>>> 
+================== RESTART: D:/GKMCA 2/python/Program-4/4.5.py =================
+enter the number of elements in the list:5
+enter element1:10
+enter element2:20
+enter element3:30
+enter element4:40
+enter element5:50
+the sum of the list is 150
+>>> 
+================== RESTART: D:/GKMCA 2/python/Program-4/4.6.py =================
+enter the first number:0
+enter the second number:5
+addition: 5.0
+subtraction: -5.0
+multiplication: 0.0
+division: 0.0
+>>> 
+================== RESTART: D:/GKMCA 2/python/Program-4/4.6.py =================
+enter the first number:10
+enter the second number:5
+addition: 15.0
+subtraction: 5.0
+multiplication: 50.0
+division: 2.0
