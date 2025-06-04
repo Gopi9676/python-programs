@@ -1,0 +1,95 @@
+enter any number:5
+enter a number:10
+my updated list is: [10]
+enter a number:20
+my updated list is: [10, 20]
+enter a number:30
+my updated list is: [10, 20, 30]
+enter a number:40
+my updated list is: [10, 20, 30, 40]
+enter a number:50
+my updated list is: [10, 20, 30, 40, 50]
+>>> 
+================ RESTART: D:/GKMCA 2/python/experiment-3/3.2.py ================
+Traceback (most recent call last):
+  File "D:/GKMCA 2/python/experiment-3/3.2.py", line 1, in <module>
+    l=[10,20,30,"milky",(10+20j),true,1]
+NameError: name 'true' is not defined
+>>> 
+================ RESTART: D:/GKMCA 2/python/experiment-3/3.2.py ================
+milky
+True
+[20, 30, 'milky']
+[10, 20, 30, 'milky', (10+20j), True, 1]
+[10, 20, 'milky', (10+20j), True, 1]
+>>> 
+================ RESTART: D:/GKMCA 2/python/experiment-3/3.3.py ================
+Traceback (most recent call last):
+  File "D:/GKMCA 2/python/experiment-3/3.3.py", line 2, in <module>
+    print(len(1))
+TypeError: object of type 'int' has no len()
+>>> 
+================ RESTART: D:/GKMCA 2/python/experiment-3/3.3.py ================
+7
+[10, 20, 30, 40, 50, True, 1]
+50
+True
+>>> 
+================ RESTART: D:/GKMCA 2/python/experiment-3/3.4.py ================
+The sum is: 8
+The sum is: 10
+The sum is: 13
+The sum is: 13
+The sum is: 20
+>>> 
+================ RESTART: D:/GKMCA 2/python/experiment-3/3.5.py ================
+Enter the string:python is very easy learning program
+Traceback (most recent call last):
+  File "D:/GKMCA 2/python/experiment-3/3.5.py", line 2, in <module>
+    print(s.split(l))
+NameError: name 'l' is not defined
+>>> 
+================ RESTART: D:/GKMCA 2/python/experiment-3/3.5.py ================
+Enter the string:python is very easy learning program
+['', '']
+>>> 
+================ RESTART: D:/GKMCA 2/python/experiment-3/3.5.py ================
+Enter the string:python is very easy learning program
+Traceback (most recent call last):
+  File "D:/GKMCA 2/python/experiment-3/3.5.py", line 2, in <module>
+    print(s.split(l))
+NameError: name 's' is not defined
+>>> 
+================ RESTART: D:/GKMCA 2/python/experiment-3/3.5.py ================
+Enter the string:python is very easy learning program
+['python', 'is', 'very', 'easy', 'learning', 'program']
+>>> 
+================ RESTART: D:/GKMCA 2/python/experiment-3/3.6.py ================
+enter a value of n:5
+enter a number:10
+even numbers are
+[10,]
+enter a number:15
+even numbers are
+[10,]
+enter a number:20
+even numbers are
+[10,]
+20,]
+enter a number:25
+even numbers are
+[10,]
+20,]
+enter a number:33
+even numbers are
+[10,]
+20,]
+>>> 
+================ RESTART: D:/GKMCA 2/python/experiment-3/3.7.py ================
+[10, 20, 30, 'milky', True, 0, (10+20j), False, True]
+[10, 20, 30, 'milky', True, 0, (10+20j), False, True]
+[10, 20, 30, True, 0, (10+20j), False, True]
+[10, 20, True, 0, (10+20j), False, True]
+[True, False, (10+20j), 0, True, 20, 10]
+[]
+>>> 
