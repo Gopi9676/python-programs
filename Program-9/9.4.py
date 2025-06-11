@@ -1,0 +1,5 @@
+f=open("c:\\users\\MICLAB\\Desktop\\demo.txt",'r')
+data=f.read()
+lw=data.split()
+print('Total number of words in a given file:',len(lw))
+print('available words are:',lw)
