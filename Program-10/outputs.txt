@@ -1,0 +1,23 @@
+>>> 
+================= RESTART: D:\GKMCA 2\python\Program-10\10.1.py ================
+An error occurred: division by zero
+>>> 
+================= RESTART: D:\GKMCA 2\python\Program-10\10.2.py ================
+Enter a number:two
+Error: Invalis input! please enter a valid number.
+>>> 
+================= RESTART: D:\GKMCA 2\python\Program-10\10.3.py ================
+Enter a number:2
+Result: 5.0
+>>> 
+================= RESTART: D:\GKMCA 2\python\Program-10\10.4.py ================
+Error:unable to read the file!
+Traceback (most recent call last):
+  File "D:\GKMCA 2\python\Program-10\10.4.py", line 6, in <module>
+    file.close()
+NameError: name 'file' is not defined
+>>> 
+================= RESTART: D:\GKMCA 2\python\Program-10\10.5.py ================
+Enter a number upto 100:123
+123  is out of allowed range
+>>> 
