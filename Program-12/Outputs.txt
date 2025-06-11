@@ -1,0 +1,27 @@
+Python 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+================= RESTART: D:/GKMCA 2/python/Program-12/12.1.py ================
+Meow
+Woof
+>>> 
+================= RESTART: D:/GKMCA 2/python/Program-12/12.2.py ================
+Circle area: 78.5
+Rectangle area: 24
+>>> 
+================= RESTART: D:/GKMCA 2/python/Program-12/12.3.py ================
+I'm a public attribute
+I'm a public method
+I'm a protected attribute
+I'm a protected method
+I'm a private attribute
+I'm a private method
+>>> 
+================= RESTART: D:/GKMCA 2/python/Program-12/12.4.py ================
+Account Number. 1234567890
+Balance. 1000
+Deposit successfull.
+Withdrawal successful.
+Account Number. 9876543210
+Balance: 5000
+>>> 
